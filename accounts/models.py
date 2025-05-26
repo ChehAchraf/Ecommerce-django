@@ -77,4 +77,5 @@ class Account(AbstractBaseUser):
     def has_module_perm(self, app_label):
         return True
     
-             
+            
+        
